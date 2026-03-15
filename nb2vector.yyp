@@ -12,7 +12,6 @@
   "Folders":[
     {"$GMFolder":"","%Name":"nandbolt","folderPath":"folders/nandbolt.yy","name":"nandbolt","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Math","folderPath":"folders/nandbolt/Math.yy","name":"Math","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Color","folderPath":"folders/nandbolt/Math/Color.yy","name":"Color","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Matrices","folderPath":"folders/nandbolt/Math/Matrices.yy","name":"Matrices","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Vectors","folderPath":"folders/nandbolt/Math/Vectors.yy","name":"Vectors","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
