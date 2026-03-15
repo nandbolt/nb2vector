@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrMatrix2x2Struct",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrMatrix2x2Struct",
+  "parent":{
+    "name":"Matrices",
+    "path":"folders/nandbolt/Math/Matrices.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

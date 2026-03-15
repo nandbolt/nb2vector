@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrVector2Struct",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrVector2Struct",
+  "parent":{
+    "name":"Vectors",
+    "path":"folders/nandbolt/Math/Vectors.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
